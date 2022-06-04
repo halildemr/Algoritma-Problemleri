@@ -12,6 +12,8 @@
         # ÖRNEK:
         # negatiflerinToplamiV1_0( [1,2,'a'] ) --> TypeError
     # Fonksiyona int, float, bool veri tiplerinin aktarılması
+        # ÖRNEK:
+        # negatiflerinToplamiV1_0( 987 ) --> TypeError
 #=============================================================================
 # Soru1.1'e giderek bu hataların çözümünü bulabilirsiniz. 
 
