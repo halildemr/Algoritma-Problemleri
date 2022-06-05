@@ -2,7 +2,7 @@
 # Bir listede ki negatif elemanlarin toplamini bulan algoritmayi fonksiyon 
 # seklinde kodlayınız.
 #=============================================================================
-# Birinci probleme özellik eklendi.
+# soru1.0 isimli probleme özellik eklendi.
 # Bu algoritma:
 # Liste içindeki listelerin sahip olduğu negatif elemanları mevcut toplama
 # ekler.
