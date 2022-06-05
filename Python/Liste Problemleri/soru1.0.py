@@ -15,7 +15,7 @@
         # ÖRNEK:
         # negatiflerinToplamiV1_0( 987 ) --> TypeError
 #=============================================================================
-# Soru1.1'e giderek bu hataların çözümünü bulabilirsiniz. 
+# soru1.1'e giderek hataların çözümüne ulaşabilirsiniz.
 
 
 def negatiflerinToplamiV1_0( liste ):
