@@ -7,7 +7,7 @@
     # Listenin tuple, str, list veri tiplerini içermesi
     # Fonksiyona int, float, bool veri tiplerinin aktarılması
 #=============================================================================
-# Soru1 in hataları giderilmiştir.
+# Soru1.0 in hataları giderilmiştir.
 #=============================================================================
 
 def negatiflerinToplamiV1_1( liste ):
