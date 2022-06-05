@@ -11,7 +11,7 @@
     # Listenin tuple, str, list veri tiplerini içermesi
     # Fonksiyona int, float, bool veri tiplerinin aktarılması
 #=============================================================================
-# soru3.1'e giderek hataların çözümüne ulaşabilirsiniz.
+# soru2.1'e giderek hataların çözümüne ulaşabilirsiniz.
 
 def fark( liste ):
     
