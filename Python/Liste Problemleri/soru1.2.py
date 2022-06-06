@@ -3,9 +3,9 @@
 # seklinde kodlayınız.
 #=============================================================================
 # soru1.0 isimli probleme özellik eklendi.
-# Bu algoritma:
+# Özellik:
 # Liste içindeki listelerin sahip olduğu negatif elemanları mevcut toplama
-# ekler.
+# eklenmesi
 #=============================================================================
 
 def  negatiflerinToplamiV1_2( liste ):
