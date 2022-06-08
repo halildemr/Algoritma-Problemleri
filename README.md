@@ -7,7 +7,7 @@ Aşağıdaki belirtilen konu başlıkları çerçevesinde ilgili problemlerin ç
  
 - Liste/Dizi Problemleri
  
-- Görsel Problemleri
+- Görsel Problemler
  
 - Dönüşüm Problemleri
  
