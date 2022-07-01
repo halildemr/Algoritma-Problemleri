@@ -3,33 +3,33 @@ Aşağıdaki belirtilen konu başlıkları çerçevesinde ilgili problemlerin ç
 
 
 
-- Sorgu Problemleri 
+- Sorgu Problemleri               [7 problem]
  
-- Liste/Dizi Problemleri
+- Liste/Dizi Problemleri          [24 problem]
  
-- Görsel Problemler
+- Görsel Problemler               [5 problem]
  
-- Dönüşüm Problemleri
+- Dönüşüm Problemleri             [5 problem]
  
-- Hesaplama Problemleri
+- Hesaplama Problemleri           [9 problem]
+  
+- Sayma Problemleri               [0 problem]
  
-- Sayma Problemleri
+- Tablo Problemleri               [0 problem]
  
-- Tablo Problemleri
+- Sorgu Problemleri               [0 problem]
  
-- Sorgu Problemleri
+- Özel Sayılar Ön Hazırlık        [0 problem]
  
-- Özel Sayılar Ön Hazırlık
+- Özel Sayılar                    [0 problem]
  
-- Özel Sayılar
+- Asal Sayı Problemleri           [0 problem]
  
-- Asal Sayı Problemleri
+- Taban Dönüşümleri               [0 problem]
  
-- Taban Dönüşümleri
+- n Tabanında Aritmetik İşlemler  [0 problem]  
  
-- n Tabanında Aritmetik İşlemler
- 
-- Kodlar
+- Kodlar                          [0 problem]
  
 - Sıralama Algoritmaları
  
