@@ -16,5 +16,6 @@ def sesliHarfsay( c ):
             sayici = sayici + 1
             
     return sayici
+
   
   
